@@ -7,6 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["surajshende247@gmail.com"]
 
   spec.add_development_dependency "rspec", "~> 3.2"
+  spec.add_dependency "activesupport", "~> 4.2.0"
 
   spec.summary       = "This is foodie Gem"
   spec.description   = "We call our gem foodie because this gem is going to do a couple of things around food, such as portraying them as either Delicious! or Gross!. Stay tuned."

@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "activesupport", "~> 4.2.0"
   spec.add_development_dependency "cucumber"
   spec.add_development_dependency "aruba"
+  spec.add_dependency "thor"
 
   spec.summary       = "This is foodie Gem"
   spec.description   = "We call our gem foodie because this gem is going to do a couple of things around food, such as portraying them as either Delicious! or Gross!. Stay tuned."

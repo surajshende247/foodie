@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foodie (0.1.0)
+    foodie-nest (0.1.0)
       activesupport (~> 4.2.0)
       thor
 
@@ -90,7 +90,7 @@ PLATFORMS
 DEPENDENCIES
   aruba
   cucumber
-  foodie!
+  foodie-nest!
   rake (~> 12.0)
   rspec (~> 3.2)
 
